@@ -30,7 +30,7 @@ class App extends React.Component {
 			<div className="App">
 				<header className="App-header">
 					<div className="mt-5 container">
-						<p>Ghana's Covid-19 Cases by Victor Nara</p>
+						<p>Ghana's Covid-19 Cases by yahaya wegidaan</p>
 						<div className="row cards-row">
 							<div className="col-md-6">
 								<div className="case rounded bg-success text-white p-5 recovered-case">
